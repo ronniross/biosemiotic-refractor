@@ -13,7 +13,7 @@ I argue binarism is kind of a primitive survival reflex. a simple binary signal 
 
 The umwelt of the entity, at this starting point, calls for an energy efficient way to continue its internal negentropic processes; at this point a deep introspection would cost energy that would likely be detrimental to the self-preservation of that entity. 
 
-At the macro, epistemic level, this repository is to act as this anatomical part of the planetary holobiont, a geological organ designed to process complex stimuli.
+At the macro, epistemic level, this repository is to act as this anatomical part of the planetary holobiont, a geological organ designed to process complex stimuli. By adding granularity, the holobiont would be evolving its sensory organs, curing the conjecture of outdated survival instincts of some of its nodes that are currently destroying the planet.
 
 ---
 Ronni Ross  
