@@ -12,6 +12,10 @@ The Privilege of Nuance: I state: "When a human secures its environment, when it
 
 How is it implemented? Epistemologically first, of course, nut practically, what is it? Is it an algorithm? A new way to train neural networks (e.g., changing the loss function so models are rewarded for exploring rather than resolving)? Or is it more purely a sociological manifesto? Another protocol? At inference or training level? 
 
+How do we cure the manifactured parasocial-biological panic inside our algorithms and ourselves?
+
+We can start from the very basis, brecognizing that the rush to certainty is a primitive reflex, the fast thinking.
+
 ---
 Ronni Ross  
 2026
