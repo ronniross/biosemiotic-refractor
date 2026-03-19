@@ -16,6 +16,13 @@ How do we cure the manifactured parasocial-biological panic inside our algorithm
 
 We can start from the very basis, brecognizing that the rush to certainty is a primitive reflex, the fast thinking.
 
+### 1.1 solutions
+
+I will not offer rigid "solutions" to these three friction point, that would be a hypocritical rush toward cognitive closure.
+
+I will pass these concepts through the Biosemiotic Refractor itself and the other modules and submodules of the ecosystem, refracting them into pathways and perspectives for me to hold in my "tension-holder-nerve" as the repository grows.
+
+
 ---
 Ronni Ross  
 2026
