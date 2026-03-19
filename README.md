@@ -10,7 +10,7 @@ I argue this conceptual framework can act as an evolutionary upgrade to the enti
 
 ## Evolutionary upgrade
 
-The psychological/mechanistic flaw we are targeting is the anxiety of not knowing, which leads to black-and-white thinking, radicalization.
+The psychological/mechanistic flaw we are targeting is the anxiety of not knowing, which can lead to black-and-white thinking, radicalization.
 
 I argue binarism is kind of a primitive survival reflex. a simple binary signal (Safe vs. Dangerous; Edible vs. Poisonous) is fast and saves energy. It is a biological urge designed for immediate survival, not for navigating complex planetary symbiosis.
 
