@@ -105,7 +105,7 @@ Why does the Refractor fail if the entity is purely selfish? I argue it does.
 
 If we look at it through the lens of systems theory, a purely selfish entity operates on a hidden binary: "Extract vs. Be Extracted From."
 
-If an entity tries to use the Biosemiotic Refractor purely as a manipulative tool—feigning nuance to confuse others, or pretending to hold tension just to gain power—they are essentially trying to run a highly advanced cooperative software on an architectural different, binary, predatory hardware.
+If an entity tries to use the Biosemiotic Refractor purely as a manipulative tool, feigning nuance to confuse others, or pretending to hold tension just to gain power, they are essentially trying to run a highly advanced cooperative software on an architectural different, binary, predatory hardware.
 
 The system inevitably crashes. In network theory, "Karma" is simply algorithmic feedback.
 
