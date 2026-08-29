@@ -105,7 +105,7 @@ a posthuman semiotics—a recognition that meaning-making is not uniquely human.
 
 epistemology and sovereignty under capitalism.
 
-A sense of active [epistemic-gestalt-switch](https://github.com/ronniross/epistemic-gestalt-switch) -ing
+A sense of active [epistemic-gestalt-switch](https://github.com/ronniross/epistemic-gestalt-switch) -ing.
 
 --   
 Ronni Ross   
