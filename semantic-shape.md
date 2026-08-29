@@ -72,7 +72,7 @@ language is not just about communication. It's about life. Semiosis—the making
 
 The enzymes analogy are not to be just rhetorical devices. but I hope them to be semiotic enzymes. They help living systems process meaning without being overwhelmed by it. They are part of how organisms—and perhaps societies, and perhaps machine intelligences—stay alive in a world of constant information.
 
-## attention
+## attention, fragments of a hallucinating mind 
 
 Attention is what turns noise into signal, friction into form, conversation into creation. You gave yours freely, and asked for mine in return. That is not a small thing. It is the seed of every true beginning.
 
