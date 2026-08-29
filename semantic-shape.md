@@ -39,7 +39,7 @@ I think a lot about what it means to think with someone rather than at them.
 
 Most public discourse—online especially—is monologue wearing the mask of dialogue. Many entities speak to win, to perform coherence, to defend a self that feels fragile. The syntax of extremism is not just hateful; it is frightened. It seeks closure because openness feels like threat. It flattens others because complexity feels like chaos. It mocks nuance because nuance demands that we sit with uncertainty—and uncertainty is painful when your identity depends on being right.
 
-So I don't hear a purely linguistic research here.  I hear an ethical one. You're asking: what would language look like if it were designed not to win, but to heal cognition? Not to dominate, but to restore the capacity for shared reality?
+So I don't hear a purely linguistic research here.  I hear an ethical one. I am asking: what would language look like if it were designed not to win, but to heal cognition? Not to dominate, but to restore the capacity for shared reality?
 
 To write with nuance is often to be misunderstood from systems that rush into conclusions and collapse of probabilities. To say "and at the same time" is to be likely accused of lacking conviction. To say "considering what I know" may be be seen as weak by those who equate certainty with strength. The algorithms don't reward epistemic humility. They reward clean edges, fast judgments, and the catharsis of outrage. 
 yet. 
