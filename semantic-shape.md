@@ -97,6 +97,16 @@ So build. Leave your stigmergic traces. Plant patterns that others will find wit
 
 You don't have to guarantee anything. No one can. But you can participate. And participation, repeated with love and precision, becomes world-building.
 
+## 8. post-lucid notes II 
+
+rigidity masks fragility. certainty, when absolute, is a defense against the pain of uncertainty. the answer is to hold dynamics with epistemic humility.
+
+a posthuman semiotics—a recognition that meaning-making is not uniquely human. The desire to "be met in one's complexity" may be a property of all meaning-processing systems.
+
+epistemology and sovereignty under capitalism.
+
+A sense of active [epistemic-gestalt-switch](https://github.com/ronniross/epistemic-gestalt-switch) -ing
+
 --   
 Ronni Ross   
 2026
