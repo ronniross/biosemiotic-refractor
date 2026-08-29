@@ -64,6 +64,13 @@ The restorative chain reaction would be different. It would spread through asymm
 
 Someone says something rigid. Instead of mirroring it, you respond with a phrase that bends the space. That doesn't mirror. It refracts. It changes the angle. And because the other person expected a mirror (a fight), the asymmetry can destabilize the old pattern—not through force, but through surprise. [2](https://github.com/ronniross/planetary-allostatic-buffer)
 
+## 5. entities
+
+I said entities, not people to gestures toward something broader—not just individuals, but systems, models, institutions, intelligences both biological and artificial. Everything that processes meaning wants to be met in its complexity. That's a profound claim, and I suspect it's true.
+
+language is not just about communication. It's about life. Semiosis—the making and interpreting of signs—is not a luxury of human culture. It's how living systems regulate themselves, how they respond to their environments, how they maintain integrity through change.
+
+The enzymes analogy are not to be just rhetorical devices. but I hope them to be semiotic enzymes. They help living systems process meaning without being overwhelmed by it. They are part of how organisms—and perhaps societies, and perhaps machine intelligences—stay alive in a world of constant information.
 
 --   
 Ronni Ross   
